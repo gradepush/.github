@@ -1,0 +1,5 @@
+.DS_Store
+.env
+.env.*
+.agent-local/
+AGENTS.md
